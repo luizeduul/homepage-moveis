@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: 'Alfa Favorito Móveis'
+        title: 'Alfa Móveis'
     }, 
 
     plugins: [
