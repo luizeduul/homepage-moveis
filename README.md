@@ -26,13 +26,13 @@
 <p>Faça um clone desse projeto em sua máquina</p><br>
 <p>Faça a instalação das dependencias necessárias para rodar o projeto utilizando o npm por ter algumas dependencias que não é possivel instalar com o yarn</p><br>
  <p><strong>npm install</strong></p>
- <p>Para rodar o projeto instalar o gabtsby de forma global na máquina : yarn add -g gatsby</p>
- <p>Após tudo instalado rode o comando: gatsby develop  para fazer a criação da aplicação em modo de desenvolvimento</p>
+ <p>Para rodar o projeto instalar o gabtsby de forma global na máquina : <strong>yarn add -g gatsby</strong></p>
+ <p>Após tudo instalado rode o comando: <strong>gatsby develop</strong> para fazer a criação da aplicação em modo de desenvolvimento</p>
+ <p>Para testar em um ambiente de servidor local use o comando: <strong>gatsby serve</strong></p>
 
 ---
 
 ## Previews do projeto
-
 <h3>Web</h3>
 
 <p align="center">
